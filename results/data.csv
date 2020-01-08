@@ -1,0 +1,1171 @@
+technology,type,year,count
+abi solid,genomic,2007,0
+abi solid,genomic,2008,1
+abi solid,genomic,2009,44
+abi solid,genomic,2010,88
+abi solid,genomic,2011,1320
+abi solid,genomic,2012,543
+abi solid,genomic,2013,1816
+abi solid,genomic,2014,1553
+abi solid,genomic,2015,965
+abi solid,genomic,2016,5317
+abi solid,genomic,2017,697
+abi solid,genomic,2018,305
+abi solid,genomic,2019,355
+abi solid,genomic single cell,2007,0
+abi solid,genomic single cell,2008,0
+abi solid,genomic single cell,2009,0
+abi solid,genomic single cell,2010,0
+abi solid,genomic single cell,2011,0
+abi solid,genomic single cell,2012,0
+abi solid,genomic single cell,2013,0
+abi solid,genomic single cell,2014,0
+abi solid,genomic single cell,2015,0
+abi solid,genomic single cell,2016,0
+abi solid,genomic single cell,2017,0
+abi solid,genomic single cell,2018,0
+abi solid,genomic single cell,2019,0
+abi solid,metagenomic,2007,0
+abi solid,metagenomic,2008,0
+abi solid,metagenomic,2009,0
+abi solid,metagenomic,2010,0
+abi solid,metagenomic,2011,5
+abi solid,metagenomic,2012,0
+abi solid,metagenomic,2013,206
+abi solid,metagenomic,2014,112
+abi solid,metagenomic,2015,55
+abi solid,metagenomic,2016,115
+abi solid,metagenomic,2017,208
+abi solid,metagenomic,2018,1454
+abi solid,metagenomic,2019,871
+abi solid,metatranscriptomic,2007,0
+abi solid,metatranscriptomic,2008,0
+abi solid,metatranscriptomic,2009,0
+abi solid,metatranscriptomic,2010,4
+abi solid,metatranscriptomic,2011,0
+abi solid,metatranscriptomic,2012,1
+abi solid,metatranscriptomic,2013,27
+abi solid,metatranscriptomic,2014,1
+abi solid,metatranscriptomic,2015,23
+abi solid,metatranscriptomic,2016,0
+abi solid,metatranscriptomic,2017,0
+abi solid,metatranscriptomic,2018,12
+abi solid,metatranscriptomic,2019,0
+abi solid,other,2007,0
+abi solid,other,2008,0
+abi solid,other,2009,6
+abi solid,other,2010,2
+abi solid,other,2011,1
+abi solid,other,2012,1
+abi solid,other,2013,4
+abi solid,other,2014,110
+abi solid,other,2015,434
+abi solid,other,2016,4
+abi solid,other,2017,0
+abi solid,other,2018,39
+abi solid,other,2019,10
+abi solid,synthetic,2007,0
+abi solid,synthetic,2008,0
+abi solid,synthetic,2009,0
+abi solid,synthetic,2010,0
+abi solid,synthetic,2011,0
+abi solid,synthetic,2012,0
+abi solid,synthetic,2013,1
+abi solid,synthetic,2014,0
+abi solid,synthetic,2015,0
+abi solid,synthetic,2016,0
+abi solid,synthetic,2017,1
+abi solid,synthetic,2018,0
+abi solid,synthetic,2019,0
+abi solid,transcriptomic,2007,0
+abi solid,transcriptomic,2008,0
+abi solid,transcriptomic,2009,21
+abi solid,transcriptomic,2010,15
+abi solid,transcriptomic,2011,118
+abi solid,transcriptomic,2012,187
+abi solid,transcriptomic,2013,3340
+abi solid,transcriptomic,2014,1550
+abi solid,transcriptomic,2015,2311
+abi solid,transcriptomic,2016,1186
+abi solid,transcriptomic,2017,1111
+abi solid,transcriptomic,2018,436
+abi solid,transcriptomic,2019,538
+abi solid,transcriptomic single cell,2007,0
+abi solid,transcriptomic single cell,2008,0
+abi solid,transcriptomic single cell,2009,0
+abi solid,transcriptomic single cell,2010,0
+abi solid,transcriptomic single cell,2011,0
+abi solid,transcriptomic single cell,2012,0
+abi solid,transcriptomic single cell,2013,0
+abi solid,transcriptomic single cell,2014,0
+abi solid,transcriptomic single cell,2015,0
+abi solid,transcriptomic single cell,2016,0
+abi solid,transcriptomic single cell,2017,0
+abi solid,transcriptomic single cell,2018,0
+abi solid,transcriptomic single cell,2019,0
+abi solid,viral rna,2007,0
+abi solid,viral rna,2008,0
+abi solid,viral rna,2009,0
+abi solid,viral rna,2010,18
+abi solid,viral rna,2011,19
+abi solid,viral rna,2012,1
+abi solid,viral rna,2013,0
+abi solid,viral rna,2014,8
+abi solid,viral rna,2015,0
+abi solid,viral rna,2016,0
+abi solid,viral rna,2017,0
+abi solid,viral rna,2018,3
+abi solid,viral rna,2019,0
+bgiseq,genomic,2007,0
+bgiseq,genomic,2008,0
+bgiseq,genomic,2009,0
+bgiseq,genomic,2010,0
+bgiseq,genomic,2011,0
+bgiseq,genomic,2012,0
+bgiseq,genomic,2013,0
+bgiseq,genomic,2014,0
+bgiseq,genomic,2015,0
+bgiseq,genomic,2016,0
+bgiseq,genomic,2017,260
+bgiseq,genomic,2018,2669
+bgiseq,genomic,2019,2571
+bgiseq,genomic single cell,2007,0
+bgiseq,genomic single cell,2008,0
+bgiseq,genomic single cell,2009,0
+bgiseq,genomic single cell,2010,0
+bgiseq,genomic single cell,2011,0
+bgiseq,genomic single cell,2012,0
+bgiseq,genomic single cell,2013,0
+bgiseq,genomic single cell,2014,0
+bgiseq,genomic single cell,2015,0
+bgiseq,genomic single cell,2016,0
+bgiseq,genomic single cell,2017,0
+bgiseq,genomic single cell,2018,0
+bgiseq,genomic single cell,2019,0
+bgiseq,metagenomic,2007,0
+bgiseq,metagenomic,2008,0
+bgiseq,metagenomic,2009,0
+bgiseq,metagenomic,2010,0
+bgiseq,metagenomic,2011,0
+bgiseq,metagenomic,2012,0
+bgiseq,metagenomic,2013,0
+bgiseq,metagenomic,2014,0
+bgiseq,metagenomic,2015,0
+bgiseq,metagenomic,2016,0
+bgiseq,metagenomic,2017,501
+bgiseq,metagenomic,2018,170
+bgiseq,metagenomic,2019,513
+bgiseq,metatranscriptomic,2007,0
+bgiseq,metatranscriptomic,2008,0
+bgiseq,metatranscriptomic,2009,0
+bgiseq,metatranscriptomic,2010,0
+bgiseq,metatranscriptomic,2011,0
+bgiseq,metatranscriptomic,2012,0
+bgiseq,metatranscriptomic,2013,0
+bgiseq,metatranscriptomic,2014,0
+bgiseq,metatranscriptomic,2015,0
+bgiseq,metatranscriptomic,2016,0
+bgiseq,metatranscriptomic,2017,0
+bgiseq,metatranscriptomic,2018,0
+bgiseq,metatranscriptomic,2019,22
+bgiseq,other,2007,0
+bgiseq,other,2008,0
+bgiseq,other,2009,0
+bgiseq,other,2010,0
+bgiseq,other,2011,0
+bgiseq,other,2012,0
+bgiseq,other,2013,0
+bgiseq,other,2014,0
+bgiseq,other,2015,0
+bgiseq,other,2016,0
+bgiseq,other,2017,5
+bgiseq,other,2018,2
+bgiseq,other,2019,58
+bgiseq,synthetic,2007,0
+bgiseq,synthetic,2008,0
+bgiseq,synthetic,2009,0
+bgiseq,synthetic,2010,0
+bgiseq,synthetic,2011,0
+bgiseq,synthetic,2012,0
+bgiseq,synthetic,2013,0
+bgiseq,synthetic,2014,0
+bgiseq,synthetic,2015,0
+bgiseq,synthetic,2016,0
+bgiseq,synthetic,2017,0
+bgiseq,synthetic,2018,0
+bgiseq,synthetic,2019,0
+bgiseq,transcriptomic,2007,0
+bgiseq,transcriptomic,2008,0
+bgiseq,transcriptomic,2009,0
+bgiseq,transcriptomic,2010,0
+bgiseq,transcriptomic,2011,0
+bgiseq,transcriptomic,2012,0
+bgiseq,transcriptomic,2013,0
+bgiseq,transcriptomic,2014,0
+bgiseq,transcriptomic,2015,0
+bgiseq,transcriptomic,2016,0
+bgiseq,transcriptomic,2017,566
+bgiseq,transcriptomic,2018,3620
+bgiseq,transcriptomic,2019,3459
+bgiseq,transcriptomic single cell,2007,0
+bgiseq,transcriptomic single cell,2008,0
+bgiseq,transcriptomic single cell,2009,0
+bgiseq,transcriptomic single cell,2010,0
+bgiseq,transcriptomic single cell,2011,0
+bgiseq,transcriptomic single cell,2012,0
+bgiseq,transcriptomic single cell,2013,0
+bgiseq,transcriptomic single cell,2014,0
+bgiseq,transcriptomic single cell,2015,0
+bgiseq,transcriptomic single cell,2016,0
+bgiseq,transcriptomic single cell,2017,0
+bgiseq,transcriptomic single cell,2018,0
+bgiseq,transcriptomic single cell,2019,0
+bgiseq,viral rna,2007,0
+bgiseq,viral rna,2008,0
+bgiseq,viral rna,2009,0
+bgiseq,viral rna,2010,0
+bgiseq,viral rna,2011,0
+bgiseq,viral rna,2012,0
+bgiseq,viral rna,2013,0
+bgiseq,viral rna,2014,0
+bgiseq,viral rna,2015,0
+bgiseq,viral rna,2016,0
+bgiseq,viral rna,2017,0
+bgiseq,viral rna,2018,1
+bgiseq,viral rna,2019,0
+capillary,genomic,2007,0
+capillary,genomic,2008,0
+capillary,genomic,2009,0
+capillary,genomic,2010,0
+capillary,genomic,2011,0
+capillary,genomic,2012,0
+capillary,genomic,2013,6
+capillary,genomic,2014,71
+capillary,genomic,2015,461
+capillary,genomic,2016,319
+capillary,genomic,2017,1213
+capillary,genomic,2018,830
+capillary,genomic,2019,260551
+capillary,genomic single cell,2007,0
+capillary,genomic single cell,2008,0
+capillary,genomic single cell,2009,0
+capillary,genomic single cell,2010,0
+capillary,genomic single cell,2011,0
+capillary,genomic single cell,2012,0
+capillary,genomic single cell,2013,0
+capillary,genomic single cell,2014,0
+capillary,genomic single cell,2015,0
+capillary,genomic single cell,2016,0
+capillary,genomic single cell,2017,0
+capillary,genomic single cell,2018,0
+capillary,genomic single cell,2019,0
+capillary,metagenomic,2007,0
+capillary,metagenomic,2008,0
+capillary,metagenomic,2009,0
+capillary,metagenomic,2010,0
+capillary,metagenomic,2011,0
+capillary,metagenomic,2012,0
+capillary,metagenomic,2013,0
+capillary,metagenomic,2014,1
+capillary,metagenomic,2015,27
+capillary,metagenomic,2016,1
+capillary,metagenomic,2017,30
+capillary,metagenomic,2018,39
+capillary,metagenomic,2019,326
+capillary,metatranscriptomic,2007,0
+capillary,metatranscriptomic,2008,0
+capillary,metatranscriptomic,2009,0
+capillary,metatranscriptomic,2010,0
+capillary,metatranscriptomic,2011,0
+capillary,metatranscriptomic,2012,0
+capillary,metatranscriptomic,2013,0
+capillary,metatranscriptomic,2014,0
+capillary,metatranscriptomic,2015,0
+capillary,metatranscriptomic,2016,0
+capillary,metatranscriptomic,2017,0
+capillary,metatranscriptomic,2018,0
+capillary,metatranscriptomic,2019,0
+capillary,other,2007,0
+capillary,other,2008,0
+capillary,other,2009,0
+capillary,other,2010,0
+capillary,other,2011,0
+capillary,other,2012,0
+capillary,other,2013,0
+capillary,other,2014,0
+capillary,other,2015,0
+capillary,other,2016,2
+capillary,other,2017,24
+capillary,other,2018,0
+capillary,other,2019,10
+capillary,synthetic,2007,0
+capillary,synthetic,2008,0
+capillary,synthetic,2009,0
+capillary,synthetic,2010,0
+capillary,synthetic,2011,0
+capillary,synthetic,2012,0
+capillary,synthetic,2013,0
+capillary,synthetic,2014,0
+capillary,synthetic,2015,0
+capillary,synthetic,2016,0
+capillary,synthetic,2017,0
+capillary,synthetic,2018,0
+capillary,synthetic,2019,5
+capillary,transcriptomic,2007,0
+capillary,transcriptomic,2008,0
+capillary,transcriptomic,2009,0
+capillary,transcriptomic,2010,0
+capillary,transcriptomic,2011,0
+capillary,transcriptomic,2012,0
+capillary,transcriptomic,2013,0
+capillary,transcriptomic,2014,5
+capillary,transcriptomic,2015,254
+capillary,transcriptomic,2016,9
+capillary,transcriptomic,2017,141
+capillary,transcriptomic,2018,1
+capillary,transcriptomic,2019,52
+capillary,transcriptomic single cell,2007,0
+capillary,transcriptomic single cell,2008,0
+capillary,transcriptomic single cell,2009,0
+capillary,transcriptomic single cell,2010,0
+capillary,transcriptomic single cell,2011,0
+capillary,transcriptomic single cell,2012,0
+capillary,transcriptomic single cell,2013,0
+capillary,transcriptomic single cell,2014,0
+capillary,transcriptomic single cell,2015,0
+capillary,transcriptomic single cell,2016,0
+capillary,transcriptomic single cell,2017,0
+capillary,transcriptomic single cell,2018,0
+capillary,transcriptomic single cell,2019,0
+capillary,viral rna,2007,0
+capillary,viral rna,2008,0
+capillary,viral rna,2009,0
+capillary,viral rna,2010,0
+capillary,viral rna,2011,0
+capillary,viral rna,2012,0
+capillary,viral rna,2013,0
+capillary,viral rna,2014,0
+capillary,viral rna,2015,1
+capillary,viral rna,2016,0
+capillary,viral rna,2017,0
+capillary,viral rna,2018,0
+capillary,viral rna,2019,10283
+complete genomics,genomic,2007,0
+complete genomics,genomic,2008,0
+complete genomics,genomic,2009,0
+complete genomics,genomic,2010,0
+complete genomics,genomic,2011,8
+complete genomics,genomic,2012,1085
+complete genomics,genomic,2013,1724
+complete genomics,genomic,2014,106
+complete genomics,genomic,2015,161
+complete genomics,genomic,2016,1277
+complete genomics,genomic,2017,348
+complete genomics,genomic,2018,124
+complete genomics,genomic,2019,138
+complete genomics,genomic single cell,2007,0
+complete genomics,genomic single cell,2008,0
+complete genomics,genomic single cell,2009,0
+complete genomics,genomic single cell,2010,0
+complete genomics,genomic single cell,2011,0
+complete genomics,genomic single cell,2012,0
+complete genomics,genomic single cell,2013,0
+complete genomics,genomic single cell,2014,0
+complete genomics,genomic single cell,2015,0
+complete genomics,genomic single cell,2016,0
+complete genomics,genomic single cell,2017,0
+complete genomics,genomic single cell,2018,0
+complete genomics,genomic single cell,2019,0
+complete genomics,metagenomic,2007,0
+complete genomics,metagenomic,2008,0
+complete genomics,metagenomic,2009,0
+complete genomics,metagenomic,2010,0
+complete genomics,metagenomic,2011,0
+complete genomics,metagenomic,2012,0
+complete genomics,metagenomic,2013,0
+complete genomics,metagenomic,2014,0
+complete genomics,metagenomic,2015,0
+complete genomics,metagenomic,2016,0
+complete genomics,metagenomic,2017,0
+complete genomics,metagenomic,2018,0
+complete genomics,metagenomic,2019,0
+complete genomics,metatranscriptomic,2007,0
+complete genomics,metatranscriptomic,2008,0
+complete genomics,metatranscriptomic,2009,0
+complete genomics,metatranscriptomic,2010,0
+complete genomics,metatranscriptomic,2011,0
+complete genomics,metatranscriptomic,2012,0
+complete genomics,metatranscriptomic,2013,0
+complete genomics,metatranscriptomic,2014,0
+complete genomics,metatranscriptomic,2015,0
+complete genomics,metatranscriptomic,2016,1
+complete genomics,metatranscriptomic,2017,0
+complete genomics,metatranscriptomic,2018,0
+complete genomics,metatranscriptomic,2019,0
+complete genomics,other,2007,0
+complete genomics,other,2008,0
+complete genomics,other,2009,0
+complete genomics,other,2010,0
+complete genomics,other,2011,0
+complete genomics,other,2012,0
+complete genomics,other,2013,0
+complete genomics,other,2014,0
+complete genomics,other,2015,0
+complete genomics,other,2016,0
+complete genomics,other,2017,0
+complete genomics,other,2018,0
+complete genomics,other,2019,1
+complete genomics,synthetic,2007,0
+complete genomics,synthetic,2008,0
+complete genomics,synthetic,2009,0
+complete genomics,synthetic,2010,0
+complete genomics,synthetic,2011,0
+complete genomics,synthetic,2012,0
+complete genomics,synthetic,2013,0
+complete genomics,synthetic,2014,0
+complete genomics,synthetic,2015,0
+complete genomics,synthetic,2016,0
+complete genomics,synthetic,2017,0
+complete genomics,synthetic,2018,0
+complete genomics,synthetic,2019,0
+complete genomics,transcriptomic,2007,0
+complete genomics,transcriptomic,2008,0
+complete genomics,transcriptomic,2009,0
+complete genomics,transcriptomic,2010,0
+complete genomics,transcriptomic,2011,0
+complete genomics,transcriptomic,2012,0
+complete genomics,transcriptomic,2013,0
+complete genomics,transcriptomic,2014,0
+complete genomics,transcriptomic,2015,0
+complete genomics,transcriptomic,2016,6
+complete genomics,transcriptomic,2017,77
+complete genomics,transcriptomic,2018,30
+complete genomics,transcriptomic,2019,16
+complete genomics,transcriptomic single cell,2007,0
+complete genomics,transcriptomic single cell,2008,0
+complete genomics,transcriptomic single cell,2009,0
+complete genomics,transcriptomic single cell,2010,0
+complete genomics,transcriptomic single cell,2011,0
+complete genomics,transcriptomic single cell,2012,0
+complete genomics,transcriptomic single cell,2013,0
+complete genomics,transcriptomic single cell,2014,0
+complete genomics,transcriptomic single cell,2015,0
+complete genomics,transcriptomic single cell,2016,0
+complete genomics,transcriptomic single cell,2017,0
+complete genomics,transcriptomic single cell,2018,0
+complete genomics,transcriptomic single cell,2019,0
+complete genomics,viral rna,2007,0
+complete genomics,viral rna,2008,0
+complete genomics,viral rna,2009,0
+complete genomics,viral rna,2010,0
+complete genomics,viral rna,2011,0
+complete genomics,viral rna,2012,0
+complete genomics,viral rna,2013,0
+complete genomics,viral rna,2014,0
+complete genomics,viral rna,2015,0
+complete genomics,viral rna,2016,0
+complete genomics,viral rna,2017,0
+complete genomics,viral rna,2018,0
+complete genomics,viral rna,2019,0
+helicos,genomic,2007,0
+helicos,genomic,2008,0
+helicos,genomic,2009,2
+helicos,genomic,2010,0
+helicos,genomic,2011,34
+helicos,genomic,2012,31
+helicos,genomic,2013,109
+helicos,genomic,2014,7
+helicos,genomic,2015,47
+helicos,genomic,2016,12
+helicos,genomic,2017,2
+helicos,genomic,2018,4
+helicos,genomic,2019,4
+helicos,genomic single cell,2007,0
+helicos,genomic single cell,2008,0
+helicos,genomic single cell,2009,0
+helicos,genomic single cell,2010,0
+helicos,genomic single cell,2011,0
+helicos,genomic single cell,2012,0
+helicos,genomic single cell,2013,0
+helicos,genomic single cell,2014,0
+helicos,genomic single cell,2015,0
+helicos,genomic single cell,2016,0
+helicos,genomic single cell,2017,0
+helicos,genomic single cell,2018,0
+helicos,genomic single cell,2019,0
+helicos,metagenomic,2007,0
+helicos,metagenomic,2008,0
+helicos,metagenomic,2009,0
+helicos,metagenomic,2010,0
+helicos,metagenomic,2011,0
+helicos,metagenomic,2012,0
+helicos,metagenomic,2013,8
+helicos,metagenomic,2014,0
+helicos,metagenomic,2015,0
+helicos,metagenomic,2016,0
+helicos,metagenomic,2017,9
+helicos,metagenomic,2018,0
+helicos,metagenomic,2019,0
+helicos,metatranscriptomic,2007,0
+helicos,metatranscriptomic,2008,0
+helicos,metatranscriptomic,2009,0
+helicos,metatranscriptomic,2010,0
+helicos,metatranscriptomic,2011,0
+helicos,metatranscriptomic,2012,0
+helicos,metatranscriptomic,2013,0
+helicos,metatranscriptomic,2014,0
+helicos,metatranscriptomic,2015,0
+helicos,metatranscriptomic,2016,0
+helicos,metatranscriptomic,2017,0
+helicos,metatranscriptomic,2018,0
+helicos,metatranscriptomic,2019,0
+helicos,other,2007,0
+helicos,other,2008,0
+helicos,other,2009,0
+helicos,other,2010,0
+helicos,other,2011,0
+helicos,other,2012,0
+helicos,other,2013,0
+helicos,other,2014,0
+helicos,other,2015,0
+helicos,other,2016,0
+helicos,other,2017,0
+helicos,other,2018,0
+helicos,other,2019,0
+helicos,synthetic,2007,0
+helicos,synthetic,2008,0
+helicos,synthetic,2009,0
+helicos,synthetic,2010,0
+helicos,synthetic,2011,0
+helicos,synthetic,2012,0
+helicos,synthetic,2013,0
+helicos,synthetic,2014,0
+helicos,synthetic,2015,0
+helicos,synthetic,2016,0
+helicos,synthetic,2017,0
+helicos,synthetic,2018,0
+helicos,synthetic,2019,0
+helicos,transcriptomic,2007,0
+helicos,transcriptomic,2008,0
+helicos,transcriptomic,2009,2
+helicos,transcriptomic,2010,24
+helicos,transcriptomic,2011,144
+helicos,transcriptomic,2012,21
+helicos,transcriptomic,2013,167
+helicos,transcriptomic,2014,146
+helicos,transcriptomic,2015,53
+helicos,transcriptomic,2016,31
+helicos,transcriptomic,2017,3122
+helicos,transcriptomic,2018,108
+helicos,transcriptomic,2019,5
+helicos,transcriptomic single cell,2007,0
+helicos,transcriptomic single cell,2008,0
+helicos,transcriptomic single cell,2009,0
+helicos,transcriptomic single cell,2010,0
+helicos,transcriptomic single cell,2011,0
+helicos,transcriptomic single cell,2012,0
+helicos,transcriptomic single cell,2013,0
+helicos,transcriptomic single cell,2014,0
+helicos,transcriptomic single cell,2015,0
+helicos,transcriptomic single cell,2016,0
+helicos,transcriptomic single cell,2017,0
+helicos,transcriptomic single cell,2018,0
+helicos,transcriptomic single cell,2019,0
+helicos,viral rna,2007,0
+helicos,viral rna,2008,0
+helicos,viral rna,2009,0
+helicos,viral rna,2010,0
+helicos,viral rna,2011,0
+helicos,viral rna,2012,0
+helicos,viral rna,2013,0
+helicos,viral rna,2014,0
+helicos,viral rna,2015,0
+helicos,viral rna,2016,0
+helicos,viral rna,2017,0
+helicos,viral rna,2018,0
+helicos,viral rna,2019,0
+illumina,genomic,2007,0
+illumina,genomic,2008,3
+illumina,genomic,2009,1228
+illumina,genomic,2010,2231
+illumina,genomic,2011,4752
+illumina,genomic,2012,14915
+illumina,genomic,2013,211888
+illumina,genomic,2014,178579
+illumina,genomic,2015,444008
+illumina,genomic,2016,613632
+illumina,genomic,2017,447586
+illumina,genomic,2018,892870
+illumina,genomic,2019,815506
+illumina,genomic single cell,2007,0
+illumina,genomic single cell,2008,0
+illumina,genomic single cell,2009,0
+illumina,genomic single cell,2010,0
+illumina,genomic single cell,2011,0
+illumina,genomic single cell,2012,0
+illumina,genomic single cell,2013,0
+illumina,genomic single cell,2014,0
+illumina,genomic single cell,2015,0
+illumina,genomic single cell,2016,0
+illumina,genomic single cell,2017,0
+illumina,genomic single cell,2018,0
+illumina,genomic single cell,2019,1364
+illumina,metagenomic,2007,0
+illumina,metagenomic,2008,0
+illumina,metagenomic,2009,0
+illumina,metagenomic,2010,7
+illumina,metagenomic,2011,75
+illumina,metagenomic,2012,391
+illumina,metagenomic,2013,11995
+illumina,metagenomic,2014,24510
+illumina,metagenomic,2015,88610
+illumina,metagenomic,2016,166666
+illumina,metagenomic,2017,399595
+illumina,metagenomic,2018,392299
+illumina,metagenomic,2019,395461
+illumina,metatranscriptomic,2007,0
+illumina,metatranscriptomic,2008,0
+illumina,metatranscriptomic,2009,0
+illumina,metatranscriptomic,2010,0
+illumina,metatranscriptomic,2011,1
+illumina,metatranscriptomic,2012,35
+illumina,metatranscriptomic,2013,168
+illumina,metatranscriptomic,2014,503
+illumina,metatranscriptomic,2015,1606
+illumina,metatranscriptomic,2016,3446
+illumina,metatranscriptomic,2017,6498
+illumina,metatranscriptomic,2018,6963
+illumina,metatranscriptomic,2019,8069
+illumina,other,2007,0
+illumina,other,2008,0
+illumina,other,2009,98
+illumina,other,2010,74
+illumina,other,2011,50
+illumina,other,2012,71
+illumina,other,2013,957
+illumina,other,2014,1243
+illumina,other,2015,2385
+illumina,other,2016,6366
+illumina,other,2017,10840
+illumina,other,2018,28061
+illumina,other,2019,24287
+illumina,synthetic,2007,0
+illumina,synthetic,2008,0
+illumina,synthetic,2009,0
+illumina,synthetic,2010,4
+illumina,synthetic,2011,0
+illumina,synthetic,2012,44
+illumina,synthetic,2013,3814
+illumina,synthetic,2014,268
+illumina,synthetic,2015,16461
+illumina,synthetic,2016,1624
+illumina,synthetic,2017,12950
+illumina,synthetic,2018,7244
+illumina,synthetic,2019,2395
+illumina,transcriptomic,2007,0
+illumina,transcriptomic,2008,4
+illumina,transcriptomic,2009,284
+illumina,transcriptomic,2010,537
+illumina,transcriptomic,2011,2034
+illumina,transcriptomic,2012,4124
+illumina,transcriptomic,2013,51285
+illumina,transcriptomic,2014,76285
+illumina,transcriptomic,2015,154498
+illumina,transcriptomic,2016,252630
+illumina,transcriptomic,2017,303013
+illumina,transcriptomic,2018,492561
+illumina,transcriptomic,2019,389187
+illumina,transcriptomic single cell,2007,0
+illumina,transcriptomic single cell,2008,0
+illumina,transcriptomic single cell,2009,0
+illumina,transcriptomic single cell,2010,0
+illumina,transcriptomic single cell,2011,0
+illumina,transcriptomic single cell,2012,0
+illumina,transcriptomic single cell,2013,0
+illumina,transcriptomic single cell,2014,0
+illumina,transcriptomic single cell,2015,0
+illumina,transcriptomic single cell,2016,0
+illumina,transcriptomic single cell,2017,0
+illumina,transcriptomic single cell,2018,0
+illumina,transcriptomic single cell,2019,5418
+illumina,viral rna,2007,0
+illumina,viral rna,2008,0
+illumina,viral rna,2009,0
+illumina,viral rna,2010,1
+illumina,viral rna,2011,2
+illumina,viral rna,2012,18
+illumina,viral rna,2013,226
+illumina,viral rna,2014,1634
+illumina,viral rna,2015,1517
+illumina,viral rna,2016,2419
+illumina,viral rna,2017,3703
+illumina,viral rna,2018,18051
+illumina,viral rna,2019,5528
+ion torrent,genomic,2007,0
+ion torrent,genomic,2008,0
+ion torrent,genomic,2009,0
+ion torrent,genomic,2010,0
+ion torrent,genomic,2011,4
+ion torrent,genomic,2012,128
+ion torrent,genomic,2013,523
+ion torrent,genomic,2014,1993
+ion torrent,genomic,2015,3318
+ion torrent,genomic,2016,7921
+ion torrent,genomic,2017,5167
+ion torrent,genomic,2018,12587
+ion torrent,genomic,2019,9708
+ion torrent,genomic single cell,2007,0
+ion torrent,genomic single cell,2008,0
+ion torrent,genomic single cell,2009,0
+ion torrent,genomic single cell,2010,0
+ion torrent,genomic single cell,2011,0
+ion torrent,genomic single cell,2012,0
+ion torrent,genomic single cell,2013,0
+ion torrent,genomic single cell,2014,0
+ion torrent,genomic single cell,2015,0
+ion torrent,genomic single cell,2016,0
+ion torrent,genomic single cell,2017,0
+ion torrent,genomic single cell,2018,0
+ion torrent,genomic single cell,2019,0
+ion torrent,metagenomic,2007,0
+ion torrent,metagenomic,2008,0
+ion torrent,metagenomic,2009,0
+ion torrent,metagenomic,2010,0
+ion torrent,metagenomic,2011,0
+ion torrent,metagenomic,2012,27
+ion torrent,metagenomic,2013,368
+ion torrent,metagenomic,2014,1545
+ion torrent,metagenomic,2015,2538
+ion torrent,metagenomic,2016,5346
+ion torrent,metagenomic,2017,11673
+ion torrent,metagenomic,2018,7185
+ion torrent,metagenomic,2019,6978
+ion torrent,metatranscriptomic,2007,0
+ion torrent,metatranscriptomic,2008,0
+ion torrent,metatranscriptomic,2009,0
+ion torrent,metatranscriptomic,2010,0
+ion torrent,metatranscriptomic,2011,0
+ion torrent,metatranscriptomic,2012,0
+ion torrent,metatranscriptomic,2013,12
+ion torrent,metatranscriptomic,2014,10
+ion torrent,metatranscriptomic,2015,74
+ion torrent,metatranscriptomic,2016,82
+ion torrent,metatranscriptomic,2017,67
+ion torrent,metatranscriptomic,2018,32
+ion torrent,metatranscriptomic,2019,289
+ion torrent,other,2007,0
+ion torrent,other,2008,0
+ion torrent,other,2009,0
+ion torrent,other,2010,0
+ion torrent,other,2011,0
+ion torrent,other,2012,0
+ion torrent,other,2013,7
+ion torrent,other,2014,224
+ion torrent,other,2015,32
+ion torrent,other,2016,252
+ion torrent,other,2017,76
+ion torrent,other,2018,178
+ion torrent,other,2019,735
+ion torrent,synthetic,2007,0
+ion torrent,synthetic,2008,0
+ion torrent,synthetic,2009,0
+ion torrent,synthetic,2010,0
+ion torrent,synthetic,2011,0
+ion torrent,synthetic,2012,0
+ion torrent,synthetic,2013,0
+ion torrent,synthetic,2014,0
+ion torrent,synthetic,2015,9
+ion torrent,synthetic,2016,9
+ion torrent,synthetic,2017,4
+ion torrent,synthetic,2018,31
+ion torrent,synthetic,2019,83
+ion torrent,transcriptomic,2007,0
+ion torrent,transcriptomic,2008,0
+ion torrent,transcriptomic,2009,0
+ion torrent,transcriptomic,2010,0
+ion torrent,transcriptomic,2011,1
+ion torrent,transcriptomic,2012,18
+ion torrent,transcriptomic,2013,126
+ion torrent,transcriptomic,2014,580
+ion torrent,transcriptomic,2015,1323
+ion torrent,transcriptomic,2016,2667
+ion torrent,transcriptomic,2017,4134
+ion torrent,transcriptomic,2018,2585
+ion torrent,transcriptomic,2019,2262
+ion torrent,transcriptomic single cell,2007,0
+ion torrent,transcriptomic single cell,2008,0
+ion torrent,transcriptomic single cell,2009,0
+ion torrent,transcriptomic single cell,2010,0
+ion torrent,transcriptomic single cell,2011,0
+ion torrent,transcriptomic single cell,2012,0
+ion torrent,transcriptomic single cell,2013,0
+ion torrent,transcriptomic single cell,2014,0
+ion torrent,transcriptomic single cell,2015,0
+ion torrent,transcriptomic single cell,2016,0
+ion torrent,transcriptomic single cell,2017,0
+ion torrent,transcriptomic single cell,2018,0
+ion torrent,transcriptomic single cell,2019,0
+ion torrent,viral rna,2007,0
+ion torrent,viral rna,2008,0
+ion torrent,viral rna,2009,0
+ion torrent,viral rna,2010,0
+ion torrent,viral rna,2011,0
+ion torrent,viral rna,2012,0
+ion torrent,viral rna,2013,0
+ion torrent,viral rna,2014,53
+ion torrent,viral rna,2015,123
+ion torrent,viral rna,2016,565
+ion torrent,viral rna,2017,361
+ion torrent,viral rna,2018,3170
+ion torrent,viral rna,2019,313
+ls454,genomic,2007,0
+ls454,genomic,2008,2
+ls454,genomic,2009,1197
+ls454,genomic,2010,1485
+ls454,genomic,2011,2037
+ls454,genomic,2012,2510
+ls454,genomic,2013,8687
+ls454,genomic,2014,12874
+ls454,genomic,2015,10585
+ls454,genomic,2016,15636
+ls454,genomic,2017,4822
+ls454,genomic,2018,7265
+ls454,genomic,2019,2926
+ls454,genomic single cell,2007,0
+ls454,genomic single cell,2008,0
+ls454,genomic single cell,2009,0
+ls454,genomic single cell,2010,0
+ls454,genomic single cell,2011,0
+ls454,genomic single cell,2012,0
+ls454,genomic single cell,2013,0
+ls454,genomic single cell,2014,0
+ls454,genomic single cell,2015,0
+ls454,genomic single cell,2016,0
+ls454,genomic single cell,2017,0
+ls454,genomic single cell,2018,0
+ls454,genomic single cell,2019,0
+ls454,metagenomic,2007,0
+ls454,metagenomic,2008,0
+ls454,metagenomic,2009,5
+ls454,metagenomic,2010,4
+ls454,metagenomic,2011,1226
+ls454,metagenomic,2012,3942
+ls454,metagenomic,2013,19170
+ls454,metagenomic,2014,32679
+ls454,metagenomic,2015,42441
+ls454,metagenomic,2016,25095
+ls454,metagenomic,2017,66402
+ls454,metagenomic,2018,14312
+ls454,metagenomic,2019,17552
+ls454,metatranscriptomic,2007,0
+ls454,metatranscriptomic,2008,0
+ls454,metatranscriptomic,2009,1
+ls454,metatranscriptomic,2010,10
+ls454,metatranscriptomic,2011,9
+ls454,metatranscriptomic,2012,161
+ls454,metatranscriptomic,2013,126
+ls454,metatranscriptomic,2014,1528
+ls454,metatranscriptomic,2015,1205
+ls454,metatranscriptomic,2016,963
+ls454,metatranscriptomic,2017,172
+ls454,metatranscriptomic,2018,28
+ls454,metatranscriptomic,2019,33
+ls454,other,2007,0
+ls454,other,2008,0
+ls454,other,2009,59
+ls454,other,2010,36
+ls454,other,2011,25
+ls454,other,2012,211
+ls454,other,2013,752
+ls454,other,2014,403
+ls454,other,2015,2443
+ls454,other,2016,493
+ls454,other,2017,646
+ls454,other,2018,621
+ls454,other,2019,182
+ls454,synthetic,2007,0
+ls454,synthetic,2008,0
+ls454,synthetic,2009,0
+ls454,synthetic,2010,2
+ls454,synthetic,2011,0
+ls454,synthetic,2012,0
+ls454,synthetic,2013,1
+ls454,synthetic,2014,41
+ls454,synthetic,2015,1443
+ls454,synthetic,2016,1
+ls454,synthetic,2017,1109
+ls454,synthetic,2018,0
+ls454,synthetic,2019,0
+ls454,transcriptomic,2007,0
+ls454,transcriptomic,2008,4
+ls454,transcriptomic,2009,246
+ls454,transcriptomic,2010,485
+ls454,transcriptomic,2011,780
+ls454,transcriptomic,2012,522
+ls454,transcriptomic,2013,1865
+ls454,transcriptomic,2014,1377
+ls454,transcriptomic,2015,957
+ls454,transcriptomic,2016,790
+ls454,transcriptomic,2017,432
+ls454,transcriptomic,2018,229
+ls454,transcriptomic,2019,84
+ls454,transcriptomic single cell,2007,0
+ls454,transcriptomic single cell,2008,0
+ls454,transcriptomic single cell,2009,0
+ls454,transcriptomic single cell,2010,0
+ls454,transcriptomic single cell,2011,0
+ls454,transcriptomic single cell,2012,0
+ls454,transcriptomic single cell,2013,0
+ls454,transcriptomic single cell,2014,0
+ls454,transcriptomic single cell,2015,0
+ls454,transcriptomic single cell,2016,0
+ls454,transcriptomic single cell,2017,0
+ls454,transcriptomic single cell,2018,0
+ls454,transcriptomic single cell,2019,0
+ls454,viral rna,2007,0
+ls454,viral rna,2008,0
+ls454,viral rna,2009,2
+ls454,viral rna,2010,34
+ls454,viral rna,2011,8
+ls454,viral rna,2012,220
+ls454,viral rna,2013,481
+ls454,viral rna,2014,979
+ls454,viral rna,2015,408
+ls454,viral rna,2016,244
+ls454,viral rna,2017,302
+ls454,viral rna,2018,731
+ls454,viral rna,2019,29
+oxford nanopore,genomic,2007,0
+oxford nanopore,genomic,2008,0
+oxford nanopore,genomic,2009,0
+oxford nanopore,genomic,2010,0
+oxford nanopore,genomic,2011,0
+oxford nanopore,genomic,2012,0
+oxford nanopore,genomic,2013,0
+oxford nanopore,genomic,2014,1
+oxford nanopore,genomic,2015,149
+oxford nanopore,genomic,2016,153
+oxford nanopore,genomic,2017,429
+oxford nanopore,genomic,2018,1449
+oxford nanopore,genomic,2019,3828
+oxford nanopore,genomic single cell,2007,0
+oxford nanopore,genomic single cell,2008,0
+oxford nanopore,genomic single cell,2009,0
+oxford nanopore,genomic single cell,2010,0
+oxford nanopore,genomic single cell,2011,0
+oxford nanopore,genomic single cell,2012,0
+oxford nanopore,genomic single cell,2013,0
+oxford nanopore,genomic single cell,2014,0
+oxford nanopore,genomic single cell,2015,0
+oxford nanopore,genomic single cell,2016,0
+oxford nanopore,genomic single cell,2017,0
+oxford nanopore,genomic single cell,2018,0
+oxford nanopore,genomic single cell,2019,0
+oxford nanopore,metagenomic,2007,0
+oxford nanopore,metagenomic,2008,0
+oxford nanopore,metagenomic,2009,0
+oxford nanopore,metagenomic,2010,0
+oxford nanopore,metagenomic,2011,0
+oxford nanopore,metagenomic,2012,0
+oxford nanopore,metagenomic,2013,0
+oxford nanopore,metagenomic,2014,0
+oxford nanopore,metagenomic,2015,7
+oxford nanopore,metagenomic,2016,20
+oxford nanopore,metagenomic,2017,59
+oxford nanopore,metagenomic,2018,235
+oxford nanopore,metagenomic,2019,3643
+oxford nanopore,metatranscriptomic,2007,0
+oxford nanopore,metatranscriptomic,2008,0
+oxford nanopore,metatranscriptomic,2009,0
+oxford nanopore,metatranscriptomic,2010,0
+oxford nanopore,metatranscriptomic,2011,0
+oxford nanopore,metatranscriptomic,2012,0
+oxford nanopore,metatranscriptomic,2013,0
+oxford nanopore,metatranscriptomic,2014,0
+oxford nanopore,metatranscriptomic,2015,0
+oxford nanopore,metatranscriptomic,2016,1
+oxford nanopore,metatranscriptomic,2017,7
+oxford nanopore,metatranscriptomic,2018,2
+oxford nanopore,metatranscriptomic,2019,20
+oxford nanopore,other,2007,0
+oxford nanopore,other,2008,0
+oxford nanopore,other,2009,0
+oxford nanopore,other,2010,0
+oxford nanopore,other,2011,0
+oxford nanopore,other,2012,0
+oxford nanopore,other,2013,0
+oxford nanopore,other,2014,0
+oxford nanopore,other,2015,0
+oxford nanopore,other,2016,4
+oxford nanopore,other,2017,9
+oxford nanopore,other,2018,59
+oxford nanopore,other,2019,39
+oxford nanopore,synthetic,2007,0
+oxford nanopore,synthetic,2008,0
+oxford nanopore,synthetic,2009,0
+oxford nanopore,synthetic,2010,0
+oxford nanopore,synthetic,2011,0
+oxford nanopore,synthetic,2012,0
+oxford nanopore,synthetic,2013,0
+oxford nanopore,synthetic,2014,0
+oxford nanopore,synthetic,2015,0
+oxford nanopore,synthetic,2016,26
+oxford nanopore,synthetic,2017,4
+oxford nanopore,synthetic,2018,13
+oxford nanopore,synthetic,2019,91
+oxford nanopore,transcriptomic,2007,0
+oxford nanopore,transcriptomic,2008,0
+oxford nanopore,transcriptomic,2009,0
+oxford nanopore,transcriptomic,2010,0
+oxford nanopore,transcriptomic,2011,0
+oxford nanopore,transcriptomic,2012,0
+oxford nanopore,transcriptomic,2013,0
+oxford nanopore,transcriptomic,2014,0
+oxford nanopore,transcriptomic,2015,13
+oxford nanopore,transcriptomic,2016,11
+oxford nanopore,transcriptomic,2017,91
+oxford nanopore,transcriptomic,2018,161
+oxford nanopore,transcriptomic,2019,380
+oxford nanopore,transcriptomic single cell,2007,0
+oxford nanopore,transcriptomic single cell,2008,0
+oxford nanopore,transcriptomic single cell,2009,0
+oxford nanopore,transcriptomic single cell,2010,0
+oxford nanopore,transcriptomic single cell,2011,0
+oxford nanopore,transcriptomic single cell,2012,0
+oxford nanopore,transcriptomic single cell,2013,0
+oxford nanopore,transcriptomic single cell,2014,0
+oxford nanopore,transcriptomic single cell,2015,0
+oxford nanopore,transcriptomic single cell,2016,0
+oxford nanopore,transcriptomic single cell,2017,0
+oxford nanopore,transcriptomic single cell,2018,0
+oxford nanopore,transcriptomic single cell,2019,0
+oxford nanopore,viral rna,2007,0
+oxford nanopore,viral rna,2008,0
+oxford nanopore,viral rna,2009,0
+oxford nanopore,viral rna,2010,0
+oxford nanopore,viral rna,2011,0
+oxford nanopore,viral rna,2012,0
+oxford nanopore,viral rna,2013,0
+oxford nanopore,viral rna,2014,0
+oxford nanopore,viral rna,2015,132
+oxford nanopore,viral rna,2016,43
+oxford nanopore,viral rna,2017,0
+oxford nanopore,viral rna,2018,65
+oxford nanopore,viral rna,2019,26
+pacbio smrt,genomic,2007,0
+pacbio smrt,genomic,2008,0
+pacbio smrt,genomic,2009,0
+pacbio smrt,genomic,2010,0
+pacbio smrt,genomic,2011,15
+pacbio smrt,genomic,2012,31
+pacbio smrt,genomic,2013,784
+pacbio smrt,genomic,2014,6200
+pacbio smrt,genomic,2015,4016
+pacbio smrt,genomic,2016,7382
+pacbio smrt,genomic,2017,7451
+pacbio smrt,genomic,2018,10250
+pacbio smrt,genomic,2019,12337
+pacbio smrt,genomic single cell,2007,0
+pacbio smrt,genomic single cell,2008,0
+pacbio smrt,genomic single cell,2009,0
+pacbio smrt,genomic single cell,2010,0
+pacbio smrt,genomic single cell,2011,0
+pacbio smrt,genomic single cell,2012,0
+pacbio smrt,genomic single cell,2013,0
+pacbio smrt,genomic single cell,2014,0
+pacbio smrt,genomic single cell,2015,0
+pacbio smrt,genomic single cell,2016,0
+pacbio smrt,genomic single cell,2017,0
+pacbio smrt,genomic single cell,2018,0
+pacbio smrt,genomic single cell,2019,14
+pacbio smrt,metagenomic,2007,0
+pacbio smrt,metagenomic,2008,0
+pacbio smrt,metagenomic,2009,0
+pacbio smrt,metagenomic,2010,0
+pacbio smrt,metagenomic,2011,0
+pacbio smrt,metagenomic,2012,0
+pacbio smrt,metagenomic,2013,10
+pacbio smrt,metagenomic,2014,4
+pacbio smrt,metagenomic,2015,16
+pacbio smrt,metagenomic,2016,108
+pacbio smrt,metagenomic,2017,2628
+pacbio smrt,metagenomic,2018,900
+pacbio smrt,metagenomic,2019,776
+pacbio smrt,metatranscriptomic,2007,0
+pacbio smrt,metatranscriptomic,2008,0
+pacbio smrt,metatranscriptomic,2009,0
+pacbio smrt,metatranscriptomic,2010,0
+pacbio smrt,metatranscriptomic,2011,0
+pacbio smrt,metatranscriptomic,2012,0
+pacbio smrt,metatranscriptomic,2013,0
+pacbio smrt,metatranscriptomic,2014,0
+pacbio smrt,metatranscriptomic,2015,0
+pacbio smrt,metatranscriptomic,2016,0
+pacbio smrt,metatranscriptomic,2017,1
+pacbio smrt,metatranscriptomic,2018,0
+pacbio smrt,metatranscriptomic,2019,1
+pacbio smrt,other,2007,0
+pacbio smrt,other,2008,0
+pacbio smrt,other,2009,0
+pacbio smrt,other,2010,0
+pacbio smrt,other,2011,0
+pacbio smrt,other,2012,0
+pacbio smrt,other,2013,0
+pacbio smrt,other,2014,15
+pacbio smrt,other,2015,5
+pacbio smrt,other,2016,44
+pacbio smrt,other,2017,36
+pacbio smrt,other,2018,19
+pacbio smrt,other,2019,17
+pacbio smrt,synthetic,2007,0
+pacbio smrt,synthetic,2008,0
+pacbio smrt,synthetic,2009,0
+pacbio smrt,synthetic,2010,0
+pacbio smrt,synthetic,2011,0
+pacbio smrt,synthetic,2012,0
+pacbio smrt,synthetic,2013,0
+pacbio smrt,synthetic,2014,0
+pacbio smrt,synthetic,2015,0
+pacbio smrt,synthetic,2016,53
+pacbio smrt,synthetic,2017,81
+pacbio smrt,synthetic,2018,85
+pacbio smrt,synthetic,2019,5
+pacbio smrt,transcriptomic,2007,0
+pacbio smrt,transcriptomic,2008,0
+pacbio smrt,transcriptomic,2009,0
+pacbio smrt,transcriptomic,2010,0
+pacbio smrt,transcriptomic,2011,0
+pacbio smrt,transcriptomic,2012,20
+pacbio smrt,transcriptomic,2013,65
+pacbio smrt,transcriptomic,2014,16
+pacbio smrt,transcriptomic,2015,1365
+pacbio smrt,transcriptomic,2016,588
+pacbio smrt,transcriptomic,2017,394
+pacbio smrt,transcriptomic,2018,595
+pacbio smrt,transcriptomic,2019,581
+pacbio smrt,transcriptomic single cell,2007,0
+pacbio smrt,transcriptomic single cell,2008,0
+pacbio smrt,transcriptomic single cell,2009,0
+pacbio smrt,transcriptomic single cell,2010,0
+pacbio smrt,transcriptomic single cell,2011,0
+pacbio smrt,transcriptomic single cell,2012,0
+pacbio smrt,transcriptomic single cell,2013,0
+pacbio smrt,transcriptomic single cell,2014,0
+pacbio smrt,transcriptomic single cell,2015,0
+pacbio smrt,transcriptomic single cell,2016,0
+pacbio smrt,transcriptomic single cell,2017,0
+pacbio smrt,transcriptomic single cell,2018,0
+pacbio smrt,transcriptomic single cell,2019,1
+pacbio smrt,viral rna,2007,0
+pacbio smrt,viral rna,2008,0
+pacbio smrt,viral rna,2009,0
+pacbio smrt,viral rna,2010,0
+pacbio smrt,viral rna,2011,0
+pacbio smrt,viral rna,2012,24
+pacbio smrt,viral rna,2013,1
+pacbio smrt,viral rna,2014,16
+pacbio smrt,viral rna,2015,14
+pacbio smrt,viral rna,2016,55
+pacbio smrt,viral rna,2017,8
+pacbio smrt,viral rna,2018,59
+pacbio smrt,viral rna,2019,1
