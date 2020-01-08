@@ -1,6 +1,6 @@
 
 params.out = "results"
-Channel.value([2007, 2018]).set{ch_years}
+Channel.value([2007, 2019]).set{ch_years}
 
 
 process lookup_data {
@@ -17,8 +17,8 @@ process lookup_data {
     shell:
     '''
     #!/bin/bash
-    PLATFORM=("bgiseq" "capillary" "complete genomics" "helicos" "illumina" "ion torrent" "ls454" "oxford nanopore" "pacbio smrt")
-    TYPE=("genomic" "metagenomic" "metatranscriptomic" "other" "synthetic" "transcriptomic" "viral rna")
+    PLATFORM=("abi solid" "bgiseq" "capillary" "complete genomics" "helicos" "illumina" "ion torrent" "ls454" "oxford nanopore" "pacbio smrt")
+    TYPE=("genomic" "genomic single cell" "metagenomic" "metatranscriptomic" "other" "synthetic" "transcriptomic" "transcriptomic single cell" "viral rna")
     echo "technology,type,year,count" > data.csv
     for p in "${PLATFORM[@]}"; do
       for t in "${TYPE[@]}"; do
